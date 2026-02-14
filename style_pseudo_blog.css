@@ -41,7 +41,7 @@ a {
 }
 
 a:hover {
-    color: rgb(255, 0, 255);
+    color: rgba(255, 0, 255, 0.651);
 }
 
 section {
