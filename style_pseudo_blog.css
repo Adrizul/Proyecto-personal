@@ -36,12 +36,13 @@ nav a:not(:last-child) {
 
 a {
     color: white;
+    
     text-decoration: none;
     transition: color 0.3s;
 }
 
 a:hover {
-    color: rgb(255, 0, 255);
+    color: rgb(17, 0, 255);
 }
 
 section {
