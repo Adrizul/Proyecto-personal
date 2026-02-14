@@ -42,8 +42,9 @@ a {
 }
 
 a:hover {
-    color: rgb(255, 0, 43);
+    color: rgb(173, 5, 151);
 }
+    
 
 section {
     width: 100%;
